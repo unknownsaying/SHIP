@@ -13,7 +13,7 @@
 #include "./Alphabet/uvw.c"
 #include "./Alphabet/xyz.c"
 void Inventory(){
-char ab,bc,cd,de,ef,fg,gh,hi,ij,jk,kl,lm,mn,no,op,pq,qr,rs,st,tu;
+char ab,bc,cd,de,ef,fg,gh,hi,ij,jk,kl,lm,mn,no,op,pq,qr,rs,st,tu,vw,xyz;
 
 int ab = ("++ ++ ++ ++");
 int bc = ("-- -- -- --");
